@@ -28,4 +28,4 @@ Hace falta el archivo App.config en el proyecto, para hacer que funcione se ocup
   </connectionStrings>
 </configuration>
 ```
-
+Y al final guardar en la carpeta raiz del proyecto como App.config
