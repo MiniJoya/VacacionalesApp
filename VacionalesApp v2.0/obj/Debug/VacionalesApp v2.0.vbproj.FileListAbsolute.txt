@@ -1,0 +1,178 @@
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacionalesApp v2.0.exe.config
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacionalesApp v2.0.exe
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacionalesApp v2.0.xml
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarClientes.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLogin.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Resources.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.GenerateResource.cache
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.exe
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.xml
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\MySql.Data.dll
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\MySql.Data.xml
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CopyComplete
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmActivarVacacional.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmConsultaDias.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmVerClientes.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarDesarrollo.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmInicio.resources
+C:\Users\Enrique Joya\source\repos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain2.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.GenerateResource.Cache
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe.config
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.xml
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\MySql.Data.dll
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\MySql.Data.xml
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmActivarVacacional.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarClientes.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarDesarrollo.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmConsultaDias.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmInicio.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLogin.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain2.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmVerClientes.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Resources.resources
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.exe
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.xml
+C:\Users\Jose Hernandez\Downloads\VacionalesApp v2.0 - Final\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe.config
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\MySql.Data.dll
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\MySql.Data.xml
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmActivarVacacional.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarClientes.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarDesarrollo.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmConsultaDias.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmInicio.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLogin.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain2.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmVerClientes.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Resources.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.GenerateResource.cache
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CopyComplete
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmPrueba.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmModificarActivacion.resources
+C:\Users\Enrique Joya\Documents\VacacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbprojAssemblyReference.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe.config
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbprojAssemblyReference.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmActivarVacacional.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarClientes.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarDesarrollo.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmConsultaDias.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmInicio.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLogin.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLoginNew.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain2.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmModificarActivacion.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmPrueba.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmVerClientes.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Resources.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.GenerateResource.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CopyComplete
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe.config
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbprojAssemblyReference.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmActivarVacacional.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarClientes.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarDesarrollo.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmConsultaDias.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmInicio.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLogin.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLoginNew.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain2.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmModificarActivacion.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmPrueba.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmVerClientes.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Resources.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.GenerateResource.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CopyComplete
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0 - backup\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe.config
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmActivarVacacional.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarClientes.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarDesarrollo.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmConsultaDias.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmInicio.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLoginNew.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain2.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmModificarActivacion.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmPrueba.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmVerClientes.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Splash.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Resources.resources
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.GenerateResource.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CopyComplete
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbprojAssemblyReference.cache
+C:\Users\Enrique Joya\Documents\Proyectos\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmModifVacacional.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe.config
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.pdb
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmActivarVacacional.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarClientes.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmAgregarDesarrollo.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmConsultaDias.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmInicio.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmLoginNew.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmMain2.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmModificarActivacion.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmModifVacacional.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmPrueba.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.frmVerClientes.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Splash.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp_v2._0.Resources.resources
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.GenerateResource.cache
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacionalesApp v2.0.vbproj.CopyComplete
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.exe
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.xml
+C:\Users\Enriq\Documents\Proyectos Visual Studio\VacionalesApp v2.0\VacionalesApp v2.0\VacionalesApp v2.0\obj\Debug\VacacionalesApp v2.0.pdb
