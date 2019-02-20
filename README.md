@@ -2,12 +2,21 @@
 
 Proyecto para el registro de paquetes vacacionales hecho en el lenguaje Visual Basic (en desarrollo)
 
-# Notas
+## Notas
 
 Hace falta el archivo App.config en el proyecto, para hacer que funcione se ocupa crear o modificar el ya existente que se crea automaticamente.
 
-En caso de que no lo tenga, crearlo y agregar esto:
-------------------------------------------------------------------------------------------------------------------------------------------
+### En caso de tenerlo agregar o modificar esta linea de codigo:
+
+```
+<connectionStrings>
+    <add name="ConexionMySQL" connectionString="SERVER=yourserver; DATABASE=yourdatabase; UID=yourdatabaseuser; PASSWORD=yourpassword"/>
+</connectionStrings>
+```
+
+### En caso de que no lo tenga, crearlo y agregar esto:
+
+```
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
     <startup>
@@ -18,5 +27,5 @@ En caso de que no lo tenga, crearlo y agregar esto:
     <add name="ConexionMySQL" connectionString="SERVER=yourserver; DATABASE=yourdatabase; UID=yourdatabaseuser; PASSWORD=yourpassword"/>
   </connectionStrings>
 </configuration>
-------------------------------------------------------------------------------------------------------------------------------------------
+```
 
